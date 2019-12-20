@@ -47,4 +47,4 @@ main(int argc, char *argv[])
     printf("\t%.8g\n",pop());
     return 0;
     }
- 
+  
